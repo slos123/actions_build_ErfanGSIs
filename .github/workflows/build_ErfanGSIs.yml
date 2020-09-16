@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200907172957/PBEM00_11_OTA_3160_all_1his16mb27NO.ozip
-  ROM_NAME: ColorOS
+  ROM_URL: http://14.205.45.1/bigota.d.miui.com/V12.0.4.0.QFJCNXM/miui_DAVINCI_V12.0.4.0.QFJCNXM_e5cf683f93_10.0.zip?ksy_gslb_referer=http%3A%2F%2Fwww.miui.com%2Fgetrom.php%3Fr%3D360%26m%3Dyes%26app%3Dfalse
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
