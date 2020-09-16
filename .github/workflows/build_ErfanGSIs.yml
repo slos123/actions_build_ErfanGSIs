@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200911163920/PDBM00_11_OTA_0190_all_8NctWUPgJSeU.ozip
+  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200907172957/PBEM00_11_OTA_3160_all_1his16mb27NO.ozip
   ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
